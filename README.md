@@ -1,3 +1,7 @@
-# NatCap Alpha Platform Series Code Repo
+# Applied Computational Economics
 
-Contains scripts and data for the NatCap Alpha Platform Series. Follow along here: https://docs.google.com/document/d/1FtkasXdSo3TyXkgtdZtx4Tfn6wmeF9r2Do0TvFJI_xw/edit?usp=sharing
+A set of scripts, Docker Images and tutorials for applied economists wanting to quickly learn and use a modern scientific computing stack. 
+
+Built from the wonderful work at [The Natural Capital Project](https://naturalcapitalproject.stanford.edu/), [Pygeoprocessing](https://github.com/natcap/pygeoprocessing) and tutorial work from the [NatCap Alpha Platform Series](https://github.com/natcap/natcap-alpha-platform-series).
+
+
